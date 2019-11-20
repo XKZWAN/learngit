@@ -2,7 +2,13 @@
 	<view class="content">
 		<image class="logo" src="/static/logo.png"></image>
 		<view class="text-area">
+<<<<<<< HEAD
 			
+=======
+			<view class="">{{title}}</view>
+			<view class="">{{title}}</view>
+			<view class="">{{title}}</view>
+>>>>>>> featurel
 			<text class="title">{{title}}</text>
 		</view>
 	</view>
