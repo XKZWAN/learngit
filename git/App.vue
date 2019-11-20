@@ -20,6 +20,7 @@
 		onHide: function() {
 			console.log('App Hide')
 			console.log('App Hide')
+			console.log('yes')
 		}
 	}
 </script>
