@@ -14,20 +14,7 @@
 			console.log('App Show')
 			console.log('App Show')
 			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
-			console.log('App Show')
+	
 			console.log('App Show')
 		},
 		onHide: function() {
