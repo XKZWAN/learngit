@@ -20,7 +20,11 @@
 		onHide: function() {
 			console.log('App Hide')
 			console.log('App Hide')
+<<<<<<< HEAD
 			console.log('no')
+=======
+			console.log('YES')
+>>>>>>> featurel
 		}
 	}
 </script>
